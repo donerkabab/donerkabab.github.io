@@ -1,8 +1,14 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Team Members
+
+> A short list of the crew behind the CTF & blog — handles, links, and a bit about them.
+
+| Avatar | Handle (aliases) | Role | Links | About |
+|---:|---|---|---|---|
+| 🤡 | **lineeralgebra** (aka **rwetgi**) | CTF Player & Red Teaming | [YouTube](https://www.youtube.com/@osmandagdelen9575) · [HackTheBox](https://app.hackthebox.com/profile/1577674) · [TryHackMe](https://tryhackme.com/p/lineeralgebra) | - Interested in Red Teaming, malware, and AD exploitation. <br> - Loves experimenting with pentesting labs and challenges. <br> - Enjoys learning by creating and solving CTFs. <br> - Fan of German rap (melancholy vibes + drugs). |
+
