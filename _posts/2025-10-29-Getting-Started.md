@@ -5,6 +5,9 @@ categories: [Enumeration]
 tags: [Entry]     # TAG names should always be lowercase
 image : /assets/images/entry.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
+
 ## Introduction
 
 Active Directory (AD) is one of the most critical technologies in corporate environments. Over 90% of Fortune 1000 companies rely on it to manage users, computers, and resources. For Red Teamers, this makes Active Directory the primary battlefield.

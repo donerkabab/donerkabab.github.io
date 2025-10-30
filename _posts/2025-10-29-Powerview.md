@@ -5,6 +5,8 @@ categories: [Enumeration]
 tags: [PowerView]     # TAG names should always be lowercase
 image : /assets/images/powerviewbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
 
 We learnt so many things together at **LDAP** part together but yeah i wanna go also for PowerView and SharpView off course. SharpView is only import PowerView commands and run comamnd without touch on disk. Same part for PowerView we will import ourself and run command itself!!!!
 

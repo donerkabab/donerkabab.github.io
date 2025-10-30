@@ -5,6 +5,8 @@ categories: [DACL]
 tags: [AllExtendedRights]     # TAG names should always be lowercase
 image : /assets/images/allextendedrightsbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
 
 # **AllExtendedRights on User → User (ForceChangePassword)**
 

@@ -6,6 +6,9 @@ tags: [BloodHound]     # TAG names should always be lowercase
 image : assets/images/bloodhoundbackground.png
 ---
 
+> Author : lineeralgebra
+{:.prompt-tip}
+
 Bloodhound make our job really **EASY but its not mean Bloodhound can see everything.**
 
 Sometimes we have to check something with manually. Bloodhound never will touch anything that mean. We need manually is better.

@@ -5,6 +5,9 @@ categories: [DACL]
 tags: [WriteDacl]     # TAG names should always be lowercase
 image : /assets/images/writedaclbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
+
 # **WriteDACL on User → User**
 
 When discussing Active Directory object permissions, it’s important to understand how **WriteDACL** fits in compared to other rights such as **GenericAll**, **GenericWrite**, and **WriteOwner**.

@@ -5,6 +5,8 @@ categories: [DACL]
 tags: [DCSync]     # TAG names should always be lowercase
 image : /assets/images/dcsyncbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
 
 # DCSync
 

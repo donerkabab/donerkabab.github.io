@@ -5,6 +5,8 @@ categories: [DACL]
 tags: [GenericWrite]     # TAG names should always be lowercase
 image : /assets/images/genericwritebackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
 
 # **GenericWrite on User → User**
 

@@ -5,6 +5,8 @@ categories: [DACL]
 tags: [GenericAll]     # TAG names should always be lowercase
 image : /assets/images/genericallbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
 
 # **GenericAll on User → User**
 

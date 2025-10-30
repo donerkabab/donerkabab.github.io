@@ -5,6 +5,9 @@ categories: [DACL]
 tags: [WriteOwner]     # TAG names should always be lowercase
 image : /assets/images/writeownerbackground.png
 ---
+> Author : lineeralgebra
+{:.prompt-tip}
+
 # **WriteOwner on User → User**
 
 ## **WriteOwner on User → User happening why?**
